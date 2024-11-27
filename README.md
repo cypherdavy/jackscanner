@@ -93,6 +93,24 @@ Summary:
 JackScanner includes **working PoCs** to demonstrate the impact of identified vulnerabilities.  
 
 
+![image](https://github.com/user-attachments/assets/58f6f56c-650f-4429-ba70-7903da4df511)
+
+
+
+
+![image](https://github.com/user-attachments/assets/d94f0f75-ace2-4b91-9d27-bc7d35255f39)
+
+
+
+![image](https://github.com/user-attachments/assets/b77a5ed2-bc36-4508-a25e-44b85ed3e84b)
+
+
+
+
+
+
+
+
 ---
 
 ## 🔒 Security Disclaimer  
@@ -122,27 +140,9 @@ For inquiries, reach out to:
 
 ## 🌟 Acknowledgments  
 - Built on the amazing open-source tools: `subfinder`, `tqdm`, `termcolor`.  
-- Inspired by the global ethical hacking community.  
 
-```
 
----
 
-### **Key Highlights:**
-1. **Professional Presentation**:
-   - Clear sections like Features, Installation, Usage, Example Run, PoC, and License.
 
-2. **PoC Section**:
-   - Demonstrates real-world impact with a practical scenario.
 
-3. **Security Focus**:
-   - Disclaimer emphasizes ethical use.
 
-4. **Engagement**:
-   - Encourages contributions with clear steps.
-
-### Next Steps:
-1. Add the **PoC video link** or screenshots to enhance credibility.
-2. Update repository URLs (`your-username`) with your actual GitHub username.
-
-Let me know if you'd like further assistance with this!
